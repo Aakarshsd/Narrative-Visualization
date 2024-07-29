@@ -1,0 +1,57 @@
+﻿WHO Country Name,WHO Region,Avg. PM2.5 (μg/m3),Avg. PM25 temporal coverage (%)
+Singapore,Western Pacific Region,16.8,100
+Republic of Korea,Western Pacific Region,23.274509804,84.357843137
+Japan,Western Pacific Region,13.161,97.772818366
+Australia,Western Pacific Region,8.1325,94.585034014
+Thailand,South East Asia Region,25.9924,87.106952381
+India,South East Asia Region,40.652205882,72.789945693
+Bangladesh,South East Asia Region,70.525675676,75.632220578
+Trinidad and Tobago,Region of the Americas,12.65,64.52
+Mexico,Region of the Americas,24.418863636,84.099955930
+Costa Rica,Region of the Americas,22,100
+Colombia,Region of the Americas,23.510833333,79.289060122
+Chile,Region of the Americas,16.560909091,95.634415584
+Canada,Region of the Americas,6.710344828,96.921218008
+Brazil,Region of the Americas,15.4225,90.222602740
+United Kingdom,European Region,10.519849624,90.974990244
+Turkey,European Region,23.034333333,97.90097032
+Switzerland,European Region,11.115394737,
+Sweden,European Region,6.376931818,95.792203513
+Spain,European Region,9.001649017,93.035094192
+Slovenia,European Region,16.102692308,98.3835
+Slovakia,European Region,18.684,88.723333333
+Serbia,European Region,22.67,
+Romania,European Region,17.119310345,89.427435897
+Portugal,European Region,7.821975309,92.937666667
+Poland,European Region,22.733104265,92.140663990
+Norway,European Region,6.865413534,96.754473323
+North Macedonia,European Region,42.72,
+Netherlands,European Region,12.547414634,90.572029412
+Malta,European Region,12.361481481,92.111666667
+Luxembourg,European Region,11.417272727,93.458666667
+Lithuania,European Region,14.13,96.013494273
+Latvia,European Region,14.627878788,84.932
+Italy,European Region,16.727983570,93.186685179
+Ireland,European Region,8.065263158,96.712333333
+Iceland,European Region,5.322666667,99.298
+Hungary,European Region,16.888148148,90.308125
+Greece,European Region,16.989285714,94.01826484
+Germany,European Region,12.7835,96.542508115
+France,European Region,11.826698718,91.209629630
+Finland,European Region,6.249010989,97.645025
+Estonia,European Region,6.034339623,98.801329734
+Denmark,European Region,11.3615625,91.165611111
+Czechia,European Region,19.28388,97.714756302
+Cyprus,European Region,13.417368421,91.034733333
+Croatia,European Region,19.281481481,50
+Bulgaria,European Region,20.376744186,93.933428571
+Bosnia and Herzegovina,European Region,43.808181818,84.5835
+Belgium,European Region,12.592553191,94.733669738
+Austria,European Region,13.271121076,98.227454545
+Qatar,Eastern Mediterranean Region,40,97.8
+Lebanon,Eastern Mediterranean Region,17,57.621666667
+Kuwait,Eastern Mediterranean Region,45.534705882,59.0965625
+Jordan,Eastern Mediterranean Region,26.83,15
+Bahrain,Eastern Mediterranean Region,40.725,83.150684932
+South Africa,African Region,22.6275,75
+Senegal,African Region,29.88,86.333333333

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NO2 and PM2.5 Levels Visualization - Aakarsh Dhilip</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <style>
+        .tooltip {
+            position: absolute;
+            text-align: center;
+            width: 120px;
+            height: 40px;
+            padding: 2px;
+            font: 12px sans-serif;
+            background: lightsteelblue;
+            border: 0px;
+            border-radius: 8px;
+            pointer-events: none;
+        }
+        .axis-label {
+            font-size: 14px;
+        }
+        .button-container {
+            margin-bottom: 20px;
+        }
+        .button {
+            margin: 0 5px;
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+        .scene {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>NO2 and PM2.5 Levels Visualization</h1>
+    <p>This visualization project seeks to understand NO2 and PM2.5 level distribution across differents parts of our world. Begin by selecting the "Regional View" button below to view average pollutant levels by region. Drill down further to see detailed data for the countries belonging to specific regions by clicking any of the bars in the Regional View chart. Then, click on any of the countries (bars) in the Countries by Region View chart to get the country specfic data.</p>
+    <div class="button-container">
+        <button id="scene1-btn" class="button">Regional View</button>
+        <button id="scene2-btn" class="button">Countries by Region View</button>
+        <button id="scene3-btn" class="button">Country Specific View</button>
+        <button id="back-btn" class="button" style="display:none;">Back</button>
+    </div>
+    <div id="scene1" class="scene"></div>
+    <div id="scene2" class="scene"></div>
+    <div id="scene3" class="scene"></div>
+    <script src="script.js"></script>
+</body>
+</html>
